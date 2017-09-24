@@ -12,7 +12,7 @@ public class Main {
             System.out.println(num+" 是偶數！");
         else
             System.out.println(num+" 是奇數！");
-
+    System.out.println("Github testing!");
 
 
     }
